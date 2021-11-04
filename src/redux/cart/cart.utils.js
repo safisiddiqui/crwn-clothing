@@ -32,4 +32,3 @@ export const removeItemFromCart = (cartItems, cartItemToRemove) => {
         : cartItem
     );
 };
-
